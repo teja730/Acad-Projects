@@ -1,2 +1,0 @@
-# Acad-Projects
-Hello
